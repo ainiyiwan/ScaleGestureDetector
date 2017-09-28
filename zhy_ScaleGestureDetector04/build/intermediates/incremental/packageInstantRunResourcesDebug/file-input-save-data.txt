@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Sep 27 18:11:18 CST 2017
+2.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ttt.jpg
+4.set=ANDROID_RESOURCE
+6.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+9.set=ANDROID_RESOURCE
+9.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tbug.jpg
+1.set=ANDROID_RESOURCE
+7.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\xx.jpg
+6.set=ANDROID_RESOURCE
+0.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\WorkDemo\\ScaleGestureDetector\\zhy_ScaleGestureDetector04\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\vp.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
